@@ -46,7 +46,7 @@ It's that simple. And when it comes time to scale the application, all that has 
 
 ```
 
-"I know right?"
+"I know, right?"
 
 ## Contributing
 
