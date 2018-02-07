@@ -1,0 +1,3 @@
+# Build nothing.
+
+all:
