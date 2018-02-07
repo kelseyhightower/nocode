@@ -49,13 +49,13 @@ It's that simple. And when it comes time to scale the application, all you have 
 I know right?
 
 ## Testing
-Now that you do not have any tests, run the tests
+Now that you do not have any tests, run the tests.
 
 ```
 
 ```
 
-Yep. That's it. By n ow you should be able to see nothing
+Yep. That's it. By n ow you should be able to see nothing.
 
 ```
 
