@@ -32,6 +32,22 @@ Yep. That's it. You should see the following output:
 $
 ```
 
+### Testing
+
+```
+$ time echo "Tests completed"
+```
+
+You should see the following output:
+
+```
+Tests completed
+
+real    0m0.000s
+user    0m0.000s
+sys 0m0.000s
+```
+
 ### Deploying
 
 While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
