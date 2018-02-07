@@ -48,6 +48,15 @@ $
 
 I know right?
 
+
+### Dockerize No Code
+Build an image
+```
+docker build . > /dev/null 2>&1
+```
+
+That's it.
+
 ## Contributing
 
 You don't.
