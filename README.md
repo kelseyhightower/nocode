@@ -52,6 +52,11 @@ I know right?
 
 who needs it...
 
+
+## VERSIONS
+
+NONE BECAUSE WE ARE ALWAYSNPRODUCTION READY
+
 ## Contributing
 
 You don't.
