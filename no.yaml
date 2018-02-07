@@ -7,14 +7,14 @@ metadata:
     run: scratch
   name: scratch
 spec:
-  replicas: 1
+  replicas: 0
   selector:
     matchLabels:
       run: scratch
   strategy:
     rollingUpdate:
-      maxSurge: 1
-      maxUnavailable: 1
+      maxSurge: 0
+      maxUnavailable: 65535
     type: RollingUpdate
   template:
     metadata:
@@ -22,8 +22,14 @@ spec:
       labels:
         run: scratch
     spec:
-      containers: {}
-      dnsPolicy: ClusterFirst
+      containers:
+      - image: scratch
+        imagePullPolicy: Always
+        name: scratch
+        resources: {}
+        terminationMessagePath: /dev/termination-log
+        terminationMessagePolicy: File
+      dnsPolicy: Default
       restartPolicy: Always
       schedulerName: default-scheduler
       securityContext: {}
