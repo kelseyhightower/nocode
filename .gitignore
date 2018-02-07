@@ -5,6 +5,13 @@
 *.js
 *.jsx
 
+#Typescript
+*.ts
+*.tsx
+
+#Coffeescript
+*.coffee
+
 #Java
 *.java
 
@@ -13,6 +20,7 @@
 
 #C++
 *.cpp
+*.h
 
 #Perl
 *.pl
@@ -29,3 +37,19 @@
 #CSharp
 *.cs
 
+#Rust 
+*.rs
+
+#Batch
+*.bat
+
+#Shellscript
+*.sh
+
+#Powershell
+*.ps1
+*.psd1
+*.psm1
+
+#Postscript
+*.ps
