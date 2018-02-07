@@ -48,6 +48,16 @@ $
 
 I know right?
 
+### Serverless
+
+No code works best nowhere, however you can also run it somewhere.
+
+```
+nc -l 80 > /dev/null
+```
+
+This way you can do the nothing you did nowhere everywhere.
+
 ## Contributing
 
 You don't.
