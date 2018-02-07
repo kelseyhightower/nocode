@@ -48,6 +48,15 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+### Deploy your own ERC20-Token on the Ethereum-Blockchain
+
+Since you still have no code written for any ERC20-Token, all you have to do is this:
+```
+
+```
+
+Dead simple, right?
+
 ## Contributing
 
 You don't.
