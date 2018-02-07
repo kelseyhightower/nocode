@@ -50,7 +50,7 @@ I know right?
 
 
 ### Dockerize No Code
-Build an image
+Build an image. It will work even without Docker.
 ```
 docker build . > /dev/null 2>&1
 ```
