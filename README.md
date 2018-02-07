@@ -32,7 +32,6 @@ Yep. That's it. You should see the following output:
 
 ```
 
-
 ### Testing
 
 You have to do no TDD to do nothing:
