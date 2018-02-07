@@ -37,7 +37,7 @@ Yep. That's it. You should see the following output:
 While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
 
 ```
-
+mv . /dev/null
 ```
 
 It's that simple. And when it comes time to scale the application, all you have to do is:
