@@ -13,9 +13,9 @@ other purpose.
 
 If you have not already done so, please complete this agreement and
 commit it to the Nocode repository at
-https://github.com/jpos/Nocode/tree/master/legal at legal/cla-USERNAME.txt using
+https://github.com/kelseyhightower/nocode/tree/master/legal at legal/cla-USERNAME.txt using
 your authenticated Github login. If you do not have commit
-privilege to the repository, please email the file to license@jpos.org.
+privilege to the repository, please email the file to @kelseyhightower
 If possible, digitally sign the committed file, otherwise also send a
 signed Agreement to Nocode.org.
 
