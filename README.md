@@ -2,7 +2,7 @@
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
-> Do not try and write the code. That's impossible. Instead, only realize the truth... THERE IS NO CODE( AND SPOON). Then you will see that it not the code that bends, it is yourself.
+> Do not try and write the code. That's impossible. Instead, only realize the truth... THERE IS NO CODE (AND SPOON). Then you will see that it not the code that bends, it is yourself.
 
 ## Getting Started
 
