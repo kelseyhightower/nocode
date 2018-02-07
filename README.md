@@ -16,7 +16,11 @@ This is just an example application, but imagine it doing anything you want. Add
 
 ```
 
-Randomly remove potential code files by running `make demolish`
+Randomly remove potential code files by running
+
+```
+  make demolish
+```
 
 The possibilities are endless.
 
