@@ -48,6 +48,27 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+### Fault Tolerance 
+
+Since there is nocode, that runs nowhere, we inherently have Fault tolerance. Have a look at the following: 
+
+```
+
+```
+
+I know, this is revolutionary!
+
+### Diaster recovery
+When a catastrohic disaster event happens, the system continues in it's nocode norun policy. This can be implemented in  all cloud and non-cloud platforms in existance and yet to be invented.
+
+Here is an example nocode on Microsoft Azure. Same can be achieved on AWS Cloud.
+
+```
+
+```
+
+Take a moment to absorb that.
+
 ## Contributing
 
 You don't.
