@@ -1,4 +1,4 @@
-# No Code
+# No Code (aka n6e)
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
