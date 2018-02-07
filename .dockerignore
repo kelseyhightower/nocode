@@ -1,5 +1,6 @@
 # exclude everything except nocode files
 /*
+!.dockerignore
 !CONTRIBUTING.md
 !Dockerfile
 !LICENSE
