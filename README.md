@@ -48,6 +48,10 @@ $
 
 I know right?
 
+## Logging
+
+who needs it...
+
 ## Contributing
 
 You don't.
