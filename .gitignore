@@ -3,6 +3,7 @@
 
 #Javascript
 *.js
+*.jsx
 
 #Java
 *.java
