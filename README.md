@@ -20,7 +20,7 @@ The possibilities are endless.
 
 ### Building the Application
 
-Now that anything has been done, it's time to build the application:
+Now that nothing has been done, it's time to build the application:
 
 ```
 
