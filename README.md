@@ -32,6 +32,12 @@ Yep. That's it. You should see the following output:
 
 ```
 
+And building with docker:
+
+```
+
+```
+
 ### Deploying
 
 While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
@@ -41,6 +47,12 @@ While you still have not done anything it's time to deploy your application. By 
 ```
 
 It's that simple. And when it comes time to scale the application, all you have to do is:
+
+```
+
+```
+
+Or deploy your application with docker:
 
 ```
 
