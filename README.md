@@ -1,4 +1,4 @@
-# No Code
+# No Code ![loc](https://img.shields.io/badge/lines_of_code-zero-green.svg)
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
