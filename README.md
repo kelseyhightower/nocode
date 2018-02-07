@@ -48,6 +48,13 @@ $
 
 I know right?
 
+### Usage
+
+Now that you have deployed nothing, you are ready to not use nocode:
+```
+$ rm -rf ../nocode
+```
+
 ## Contributing
 
 You don't.
