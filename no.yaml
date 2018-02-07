@@ -22,7 +22,7 @@ spec:
       labels:
         run: scratch
     spec:
-      containers:
+      containers: {}
       dnsPolicy: ClusterFirst
       restartPolicy: Always
       schedulerName: default-scheduler
