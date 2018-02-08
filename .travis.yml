@@ -1,1 +1,4 @@
-
+---
+language: bash
+script:
+  - echo PASSED
