@@ -1,53 +1,51 @@
-# No Code
+# Sem Código
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+Sem Código é a melhor maneira de escrever aplicativos seguros e confiáveis. Escreva nada; publique em lugar nenhum.
 
-## Getting Started
+## Primeiros passos
 
-Start by not writing any code.
+Comece não escrevendo código.
+
+```
+
+```
+Este é apenas um exemplo de aplicação, mas imagine fazendo o que você quiser. Adicionar novas funcionalidades também é fácil:
 
 ```
 
 ```
 
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+As possibilidades são infinitas.
+
+### Build da Aplicação
+
+Agora que você não fez nada, é hora de realizar o build da sua aplicação:
 
 ```
 
 ```
 
-The possibilities are endless.
-
-### Building the Application
-
-Now that you have not done anything it's time to build your application:
+Sim. É isso ai. Você deverá ver a seguinte saída:
 
 ```
 
 ```
 
-Yep. That's it. You should see the following output:
+### Publicando
+
+Enquanto você ainda não fez nada, é hora de publicar sua aplicação. Ao executar o seguinte comando, você pode publicar sua aplicação absolutamente em nenhum lugar.
+
+```
+
+```
+É simples assim. E quando chega a hora de escalar sua aplicação, tudo que você precisa fazer é:
 
 ```
 
 ```
 
-### Deploying
+Tudo certo, né?
 
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
+## Contribuindo
 
-```
-
-```
-
-It's that simple. And when it comes time to scale the application, all you have to do is:
-
-```
-
-```
-
-I know right?
-
-## Contributing
-
-You don't.
+Não precisa.
