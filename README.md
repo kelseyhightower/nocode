@@ -1,6 +1,6 @@
-# No Code
+# Bro Code
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+Bro code is the best way to write secure and broliable applications. Write nothing; deploy nowhere.
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ This is just an example application, but imagine it doing anything you want. Add
 
 ```
 
-The possibilities are endless.
+The brossibilities are endless.
 
 ### Building the Application
 
