@@ -1,0 +1,10 @@
+service: nocode
+
+plugins:
+  - serverless-nocode
+
+provider:
+  name: aws
+  runtime: python3
+  stage: prod
+
