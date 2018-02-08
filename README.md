@@ -48,6 +48,11 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+## How It Works
+
+No code was designed to be completely autonomus, secure and resilient. With an extreme advanced AI it runs on any cloud, heals itself, learns the patterns to optimise itself and even understands new features in advance. When it's needed it codes in itself too.
+As such, intervention is not needed. The need for understanding how it works is null. It's completely free of any engagement, unlike any other code.
+
 ## Contributing
 
 You don't.
