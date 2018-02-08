@@ -48,6 +48,9 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+### Approved by:
+Jon Snow
+
 ## Contributing
 
 You don't.
