@@ -48,6 +48,22 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+#### Advanced deploy options
+
+In addition to deploying nowhere (the default), you can also choose to deploy no code everywhere by adding no options.
+
+```
+
+```
+
+This deploys no code everywhere. As in literally everywhere.
+
+If you want to deploy no code to a specific server, then you can add the following:
+
+```
+
+```
+
 ## Contributing
 
 You don't.
