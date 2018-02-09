@@ -1,16 +1,3 @@
 {
-  "name": "nocode",
-  "version": "1.0.0",
-  "description": "",
-  "main": "",
-  "scripts": {
-    "test": ""
-  },
-  "repository": {
-    "type": "",
-    "url": ""
-  },
-  "keywords": [],
-  "author": "",
-  "license": ""
+  "name": "nocode"
 }
