@@ -48,6 +48,11 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+## Documentation
+- 
+- 
+- 
+
 ## Contributing
 
 You don't.
