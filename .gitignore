@@ -1,0 +1,14 @@
+*.c
+*.h
+.cpp
+*.rb
+.pl
+*.py
+*.class
+.jar
+.js
+.html
+.css
+.jsp
+.asp
+.vb
