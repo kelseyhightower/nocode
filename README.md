@@ -51,3 +51,7 @@ I know right?
 ## Contributing
 
 You don't.
+
+## Reference
+
+https://github.com/binhnguyennus/awesome-scalability
