@@ -51,3 +51,8 @@ I know right?
 ## Contributing
 
 You don't.
+
+## License
+
+No License, do what you want.
+
