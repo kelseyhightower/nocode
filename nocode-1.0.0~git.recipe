@@ -20,7 +20,7 @@ REQUIRES="
 	"
 
 BUILD_REQUIRES="
-	haiku_devel
+	haiku
 	"
 BUILD_PREREQUIRES="
 	cmd:true
