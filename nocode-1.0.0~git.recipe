@@ -19,13 +19,6 @@ REQUIRES="
 	haiku
 	"
 
-PROVIDES_devel="
-	nocode_devel = $portVersion
-	"
-REQUIRES_devel="
-	nocode == $portVersion base
-	"
-
 BUILD_REQUIRES="
 	haiku_devel
 	"
