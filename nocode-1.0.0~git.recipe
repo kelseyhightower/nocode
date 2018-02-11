@@ -11,24 +11,23 @@ CHECKSUM_SHA256="ed6c73fc16578ec53ea374585df2b965ce9f4a31"
 SOURCE_DIR="nocode-$srcGitRev"
 
 ARCHITECTURES="x86_gcc2 x86 x86_64"
-SECONDARY_ARCHITECTURES="x86"
 
 PROVIDES="
-	nocode$secondaryArchSuffix = $portVersion
+	nocode = $portVersion
 	"
 REQUIRES="
-	haiku$secondaryArchSuffix
+	haiku
 	"
 
 PROVIDES_devel="
-	nocode${secondaryArchSuffix}_devel = $portVersion
+	nocode_devel = $portVersion
 	"
 REQUIRES_devel="
-	nocode$secondaryArchSuffix == $portVersion base
+	nocode == $portVersion base
 	"
 
 BUILD_REQUIRES="
-	haiku${secondaryArchSuffix}_devel
+	haiku_devel
 	"
 BUILD_PREREQUIRES="
 	cmd:true
