@@ -16,6 +16,12 @@ This is just an example application, but imagine it doing anything you want. Add
 
 ```
 
+We always recommend providing good, reliable test coverage. Here's an example: 
+
+```
+
+```
+
 The possibilities are endless.
 
 ### Building the Application
