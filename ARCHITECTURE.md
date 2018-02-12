@@ -1,3 +1,5 @@
+# |̿ \͇||͇̿ ͇̿ ͇̿||͇̿ ͇̿ ͇̿ ͇̿ |͇̿ ͇̿ ͇̿||͇̿ ͇̿ ͇̿ ͇̿)|̶͇̿ ̶͇̿ ͇̿ 
+
 `nocode` is an important strategy to create every sorts of applications at an unprecedented speed and at a drastically reduced cost and that they are well suited for the cloud and for starting small and scaling very quickly. You will explore what a `nocode` platform is and why it matters to you.
 
 A `nocode` platform offers the following advantages over traditional development platforms:
