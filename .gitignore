@@ -1,0 +1,7 @@
+# ignore everything
+/*
+# except somefiles
+!CONTRIBUTING.md
+!Dockerfile
+!LICENSE
+!README.md
