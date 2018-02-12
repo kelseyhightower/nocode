@@ -1,0 +1,21 @@
+{
+    "name": "nocode",
+    "private": true,
+    "version": "0.0.1",
+    "scripts": {
+        "precommit": "lint-staged",
+        "test": "eslint ."
+    },
+    "lint-staged": {
+        "*.js": [
+            "eslint --fix",
+            "git add"
+        ]
+    },
+    "devDependencies": {
+        "eslint": "^4.17.0",
+        "eslint-plugin-nocode": "^0.0.4",
+        "husky": "^0.14.3",
+        "lint-staged": "^6.1.0"
+    }
+}
