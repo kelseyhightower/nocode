@@ -1,2 +1,2 @@
-#Are you sure we are starting from the scratch ?????
+#Hmmm
 FROM scratch
