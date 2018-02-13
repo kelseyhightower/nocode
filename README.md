@@ -2,6 +2,14 @@
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
+
+## Requirements 
+
+* A bed
+* A blanket
+* A glass of juice
+
+
 ## Getting Started
 
 Start by not writing any code.
