@@ -1,0 +1,24 @@
+{
+  "name": "nocode",
+  "version": "1.0.0",
+  "description": "The best way to write secure and reliable applications. Write nothing; deploy nowhere.",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelseyhightower/nocode.git"
+  },
+  "keywords": [
+    "no",
+    "code",
+    "nocode"
+  ],
+  "author": "kelseyhightower",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kelseyhightower/nocode/issues"
+  },
+  "homepage": "https://github.com/kelseyhightower/nocode#readme"
+}
