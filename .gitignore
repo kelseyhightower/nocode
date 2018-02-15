@@ -6,3 +6,11 @@
 *.htm
 *.java
 *.cs
+*.rb
+*.cpp
+*.cxx
+*.hxx
+*.hpp
+*.php
+*.rs
+
