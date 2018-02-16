@@ -13,4 +13,21 @@
 *.hpp
 *.php
 *.rs
+*.es6
+*.jsx
+*.ts
+*.tsx
+*.coffee
+*.coffeex (just in case)
+*.css
+*.scss
+*.sass
+*.less
+*.scala
+*.sh
+*.ipynb
+*.go
+*.asp
+*.erb
+
 
