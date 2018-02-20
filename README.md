@@ -50,4 +50,4 @@ I know right?
 
 ## Contributing
 
-You don't.
+Please contribute freely as long as nocode's rules are well followed.
