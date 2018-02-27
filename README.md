@@ -1,53 +1,53 @@
-# No Code
+# 코드 없음
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+안전하고 신뢰할 수있는 응용 프로그램을 작성하는 최선의 방법은 코드가 아닙니다. 아무 것도 쓰지 않는다. 아무데도 배포하지 마십시오.
 
-## Getting Started
+## 시작하기
 
-Start by not writing any code.
-
-```
-
-```
-
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+코드를 작성하지 않고 시작하십시오.
 
 ```
 
 ```
 
-The possibilities are endless.
-
-### Building the Application
-
-Now that you have not done anything it's time to build your application:
+이것은 예제 애플리케이션 일 뿐이지 만 원하는 모든 작업을 수행한다고 상상해보십시오. 새로운 기능을 쉽게 추가 할 수 있습니다.
 
 ```
 
 ```
 
-Yep. That's it. You should see the following output:
+가능성은 무한합니다.
+
+응용 프로그램 빌드
+
+이제 아무 것도하지 않아도 응용 프로그램을 빌드 할 시간입니다.
 
 ```
 
 ```
 
-### Deploying
-
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
+네. 그게 전부 야. 다음과 같은 결과가 나옵니다.
 
 ```
 
 ```
 
-It's that simple. And when it comes time to scale the application, all you have to do is:
+### 배치
+
+아직 아무 것도하지 않았지만 응용 프로그램을 배포 할 시간입니다. 다음 명령을 실행하면 절대적으로 아무 곳에서나 응용 프로그램을 배포 할 수 있습니다.
 
 ```
 
 ```
 
-I know right?
+그것은 간단합니다. 응용 프로그램을 확장 할 시간이되면 다음과 같이하십시오.
 
-## Contributing
+```
 
-You don't.
+```
+
+나도 알아?
+
+## 기여
+
+너는하지 않는다.
