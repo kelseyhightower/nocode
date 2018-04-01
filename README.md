@@ -1,5 +1,7 @@
 # No Code
 
+English | [简体中文](README_zh-CN.md)
+
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## Getting Started
