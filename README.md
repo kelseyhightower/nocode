@@ -50,4 +50,4 @@ I know right?
 
 ## Contributing
 
-You don't.
+You can contribute by writing no code.
