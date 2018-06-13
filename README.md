@@ -48,6 +48,8 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+To make enitrely sure nocode is working, it is recommended that you turn of your computer.
+
 ## Contributing
 
 You don't.
