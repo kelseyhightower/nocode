@@ -1,1 +1,3 @@
+WORKDIR nothings
+
 FROM scratch
