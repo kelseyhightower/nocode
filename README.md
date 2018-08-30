@@ -50,4 +50,4 @@ I know right?
 
 ## Contributing
 
-You don't.
+Refer to [Contributing](https://github.com/kelseyhightower/nocode/blob/master/CONTRIBUTING.md) for the most up-to-date process.
