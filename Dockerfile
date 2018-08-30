@@ -1,1 +1,1 @@
-FROM scratch
+FROM scratched-soi-cowboy
