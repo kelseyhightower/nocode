@@ -1,1 +1,3 @@
 FROM scratch
+
+ENTRYPOINT [""]
