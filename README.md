@@ -48,6 +48,27 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+## What if I acciedntally didn't wrote something?
+
+It can happen that you actually did not write something like this
+
+```
+
+```
+
+This is a commen misstake many people do when not writing code.  
+In that case just run the following command to revert any not made changes
+
+```
+
+```
+
+The output should be like this then
+
+```
+
+```
+
 ## Contributing
 
 You don't.
