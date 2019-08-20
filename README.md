@@ -48,6 +48,14 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+### FAQ
+If you run into things like
+
+```
+
+```
+you should do nothing about it
+
 ## Contributing
 
 You don't.
