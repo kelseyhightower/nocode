@@ -1,1 +1,0 @@
-buildSpeed * 2
