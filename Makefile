@@ -1,0 +1,2 @@
+nocode:
+.PHONY: nocode
