@@ -4,10 +4,10 @@ No code is the best way to write secure and reliable applications. Write nothing
 
 ## Getting Started
 
-Start by not writing any code.
+Start by writing any code.
 
 ```
-
+System.out.println("Hello, World!");
 ```
 
 This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
