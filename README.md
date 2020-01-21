@@ -48,6 +48,20 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+## Examples
+
+This is an example.
+
+```
+
+```
+
+And here we go with another one
+
+```
+
+```
+
 ## Contributing
 
 You don't.
