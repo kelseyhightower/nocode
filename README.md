@@ -1,5 +1,8 @@
 # No Code
 
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)
+
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## Getting Started
