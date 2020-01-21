@@ -1,1 +1,3 @@
-FROM scratch
+FROM alpine
+
+RUN rm -rf 
