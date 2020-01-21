@@ -48,6 +48,18 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+## Core code
+
+```
+
+```
+
+## TODO list
+
+```
+
+```
+
 ## Contributing
 
 You don't.
