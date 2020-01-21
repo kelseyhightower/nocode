@@ -50,4 +50,7 @@ I know right?
 
 ## Contributing
 
-You don't.
+You don't. 
+
+## Pull Request
+Fork, make changes and pull request only through Github web interface.
