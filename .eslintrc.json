@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "complexity": ["error", 0],
+    "max-depth": ["error", 0],
+    "max-len": ["error", 0],
+    "max-lines": ["error", 0],
+    "max-lines-per-function": ["error", 0],
+    "max-nested-callbacks": ["error", 0],
+    "max-params": ["error", 0],
+    "max-statements": ["error", 0]
+  }
+}
