@@ -1,6 +1,6 @@
-# No Code
+# no source code
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+no source code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## Getting Started
 
