@@ -48,6 +48,16 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+### Serverless
+
+No code works best nowhere, however you can also run it somewhere.
+
+```
+$
+```
+
+This way you can do the nothing you did nowhere everywhere.
+
 ## Contributing
 
 You don't.
