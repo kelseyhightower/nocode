@@ -48,6 +48,15 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+
+### Dockerize No Code
+Build an image. It will work even without Docker.
+```
+docker build . > /dev/null 2>&1
+```
+
+That's it.
+
 ## Contributing
 
 You don't.
