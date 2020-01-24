@@ -18,7 +18,7 @@ This is just an example application, but imagine it doing anything you want. Add
 
 The possibilities are endless.
 
-### Building the Application
+### Building
 
 Now that you have not done anything it's time to build your application:
 
