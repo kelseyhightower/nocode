@@ -10,7 +10,7 @@ Start by not writing any code.
 
 ```
 
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+This is just an example application, but imagine it doing anything that is wanted. Adding new features is easy too:
 
 ```
 
@@ -20,13 +20,13 @@ The possibilities are endless.
 
 ### Building the Application
 
-Now that you have not done anything it's time to build your application:
+Now that nothing has been done, it's time to build the application:
 
 ```
 
 ```
 
-Yep. That's it. You should see the following output:
+Yep. That's it. The following output should be seen:
 
 ```
 
@@ -34,20 +34,20 @@ Yep. That's it. You should see the following output:
 
 ### Deploying
 
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
+While nothing still has not been done, it's time to deploy the application. By running the following command the application can be deployed absolutely nowhere.
 
 ```
 
 ```
 
-It's that simple. And when it comes time to scale the application, all you have to do is:
+It's that simple. And when it comes time to scale the application, all that has to be done:
 
 ```
 
 ```
 
-I know right?
+"I know, right?"
 
 ## Contributing
 
-You don't.
+It cannot be done.
