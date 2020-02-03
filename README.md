@@ -1,6 +1,10 @@
-# No Code
+![NoCode](no-code.gif?raw=true "NoCode")
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+
+## Architecture Topology
+
+![NoCodeTopology](topology.png?raw=true "NoCode")
 
 ## Getting Started
 
