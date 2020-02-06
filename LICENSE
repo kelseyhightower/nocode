@@ -25,12 +25,12 @@
       exercising permissions granted by this License.
 
       "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
+      including but not limited to software source, documentation
       source, and configuration files.
 
       "Object" form shall mean any form resulting from mechanical
       transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
+      not limited to compiled object, generated documentation,
       and conversions to other media types.
 
       "Work" shall mean the work of authorship, whether in Source or
@@ -54,7 +54,7 @@
       the copyright owner. For the purposes of this definition, "submitted"
       means any form of electronic, verbal, or written communication sent
       to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
+      communication on electronic mailing lists, source control systems,
       and issue tracking systems that are managed by, or on behalf of, the
       Licensor for the purpose of discussing and improving the Work, but
       excluding communication that is conspicuously marked or otherwise
