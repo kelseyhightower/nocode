@@ -2,6 +2,8 @@
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
+[Chinese](./translation/README-CN.md)
+
 ## Getting Started
 
 Start by not writing any code.
