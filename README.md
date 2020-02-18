@@ -46,6 +46,10 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 ```
 
+### Backward compatibility
+
+And enter a loophole
+
 I know right?
 
 ## Contributing
