@@ -2,6 +2,10 @@
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
+> "The cheapest, fastest and most reliable components of a computer system are those that aren't there." 
+>
+> -- <cite>Gordon Bell</cite>
+
 ## Getting Started
 
 Start by not writing any code.
