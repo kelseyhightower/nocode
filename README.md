@@ -1,32 +1,32 @@
 # No Code
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+No code là cách để viết ứng dụng an toàn và đáng tin cậy. không viết gì; không deploy ở nơi nào.
 
-## Getting Started
+## Bắt đầu
 
-Start by not writing any code.
-
-```
-
-```
-
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+Bắt đầu bằng việc không viết bất cứ điều gì.
 
 ```
 
 ```
 
-The possibilities are endless.
-
-### Building the Application
-
-Now that you have not done anything it's time to build your application:
+Đây là ví dụ một ứng dụng, nhưng hãy tưởng tượng nó làm bất cứ điều gì bạn muốn . Việc thêm tính năng cũng dễ dàng như vậy:
 
 ```
 
 ```
 
-Yep. That's it. You should see the following output:
+Khả năng là vô tận.
+
+### Xây dựng một ứng dụng
+
+Bây giờ bạn không hoàn thành bất cứ điều gì nó là thời gian để xây dựng ứng dụng của bạn:
+
+```
+
+```
+
+Yep. Chính nó. Bạn thấy kết quả sau:
 
 ```
 
@@ -34,20 +34,20 @@ Yep. That's it. You should see the following output:
 
 ### Deploying
 
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
+Trong khi bạn vẫn không có bất cứ điều gì hoàn thành nó là thời gian để deploy ứng dụng của bạn. Bằng việc chạy theo câu lệnh bạn có thể deploy ứng dụng của bạn tuyệt đối ở không nơi nào.
 
 ```
 
 ```
 
-It's that simple. And when it comes time to scale the application, all you have to do is:
+Điều đó rất đơn giản. Và khi nó đến thời gian để mở rộng ứng dụng, tất cả điều bạn phải làm là:
 
 ```
 
 ```
 
-I know right?
+Bạn hiểu chứ?
 
 ## Contributing
 
-You don't.
+Bạn không phải làm điều này.
