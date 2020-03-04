@@ -31,7 +31,6 @@ Yep. That's it. You should see the following output:
 ```
 
 ```
-## Build
 
 Run "sudo rm -r <Directory_name_of_the_reporisoty>" to correctly compile the project
 
