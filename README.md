@@ -18,6 +18,14 @@ This is just an example application, but imagine it doing anything you want. Add
 
 The possibilities are endless.
 
+### Testing
+To fulfill modern QA requirements it's essential run automatic tests on no code.
+
+Example output:
+```
+
+```
+
 ### Building the Application
 
 Now that you have not done anything it's time to build your application:
