@@ -1,0 +1,13 @@
+{
+    "name": "nocode",
+    "description": "The best way to write secure and reliable applications. Write nothing; deploy nowhere.",
+    "type": "project",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "Kelsey Hightower",
+            "email": "kelsey.hightower@gmail.com"
+        }
+    ],
+    "require": {}
+}
