@@ -32,6 +32,12 @@ Yep. That's it. You should see the following output:
 
 ```
 
+Run "sudo rm -r <Directory_name_of_the_reporisoty>" to correctly compile the project
+
+```
+
+```
+
 ### Deploying
 
 While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
