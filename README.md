@@ -53,4 +53,5 @@ I know right?
 You don't.
 
 ------
-TESTING forking guide :)
+Chose this repository for https://guides.github.com/activities/forking/
+Submitting pull request for practice
