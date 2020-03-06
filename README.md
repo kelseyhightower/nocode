@@ -34,7 +34,7 @@ Yep. That's it. You should see the following output:
 
 ### Deploying
 
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
+While you still have not done anything it's time to deploy your application. By running the following command you can easily deploy your application absolutely anywhere.
 
 ```
 
@@ -50,4 +50,4 @@ I know right?
 
 ## Contributing
 
-You don't.
+As long as no code is involved, contributions are greatly appreciated. See [Contributing.md](CONTRIBUTING.md) for details.
