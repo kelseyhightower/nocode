@@ -50,4 +50,4 @@ I know right?
 
 ## Contributing
 
-You don't.
+Please refer to the [Contributing Guidelines](CONTRIBUTING.md) if you want to contribute.
