@@ -48,6 +48,8 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+See the documentation [here](https://youtu.be/dQw4w9WgXcQ).
+
 ## Contributing
 
 You don't.
