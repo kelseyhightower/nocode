@@ -1,0 +1,13 @@
+# This is an mtail programme for exporting metrics from no code.
+#
+# No code has no instrumentation, thus requires an external program to sift
+# and export metrics from other sources; in this case with mtail from any log
+# files.
+#
+# See https://github.com/google/mtail for more details on the language.
+#
+# Implementation Details:
+# This programme takes advantage of the Church-Turing thesis on universal 
+# computability to dynamically adapt to all applications with no code; it
+# supports serverless and server-based platforms, public and private cloud,
+# and traditional on-premises hosting, on premise.
