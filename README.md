@@ -32,6 +32,20 @@ Yep. That's it. You should see the following output:
 
 ```
 
+#### Running the test suite
+
+No code uses the no tests framework. Simply execute:
+
+```
+
+```
+
+If nothing was outputted, or the `$?` gives a 0 return value, then all tests were successful.
+
+```
+
+```
+
 ### Deploying
 
 While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
