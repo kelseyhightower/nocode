@@ -46,6 +46,12 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 ```
 
+### NoOps?
+
+That's exactly the point.
+
+[NoOps](https://memegenerator.net/img/instances/59511049/no-ops-no-ops-anywhere.jpg)
+
 I know right?
 
 ## Contributing
