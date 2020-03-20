@@ -51,3 +51,10 @@ I know right?
 ## Contributing
 
 You don't.
+
+### [Code of Conduct]()
+
+### Related projects:
+https://www.ioccc.org/1994/smr.c 
+https://www.ioccc.org/1994/smr.hint
+
