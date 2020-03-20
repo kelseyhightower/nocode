@@ -18,6 +18,24 @@ This is just an example application, but imagine it doing anything you want. Add
 
 The possibilities are endless.
 
+## Internationalization
+
+To deal with internationalization and localization, just apply the following
+patch:
+
+```
+
+```
+
+As an example, here is the italian internationalization of the entire
+codebase:
+
+```
+
+```
+
+Mind you, the character set used should be UTF-16.
+
 ### Building the Application
 
 Now that you have not done anything it's time to build your application:
