@@ -1,0 +1,42 @@
+SUMMARY="No Code"
+DESCRIPTION="No code is the best way to write secure and reliable applications.
+Write nothing; deploy nowhere."
+HOMEPAGE="https://github.com/kelseyhightower/nocode"
+COPYRIGHT="2018 Kelsey Hightower"
+LICENSE="Apache v2"
+REVISION="1"
+srcGitRev="01ed09a3e1f4637f72d4239fe3724fcafa39be94"
+SOURCE_URI="https://github.com/kelseyhightower/nocode/archive/$srcGitRev.tar.gz"
+CHECKSUM_SHA256="ed6c73fc16578ec53ea374585df2b965ce9f4a31"
+SOURCE_DIR="nocode-$srcGitRev"
+
+ARCHITECTURES="x86_gcc2 x86 x86_64"
+
+PROVIDES="
+	nocode = $portVersion
+	"
+REQUIRES="
+	haiku
+	"
+
+BUILD_REQUIRES="
+	haiku
+	"
+BUILD_PREREQUIRES="
+	cmd:true
+	"
+
+BUILD()
+{
+	true
+}
+
+INSTALL()
+{
+	true
+}
+
+TEST()
+{
+	true
+}
