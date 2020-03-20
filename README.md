@@ -2,6 +2,14 @@
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
+## Prerequisites
+
+To install all dependencies, open up your terminal and execute nothing:
+
+```
+
+```
+
 ## Getting Started
 
 Start by not writing any code.
