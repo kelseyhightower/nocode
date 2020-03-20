@@ -18,6 +18,19 @@ This is just an example application, but imagine it doing anything you want. Add
 
 The possibilities are endless.
 
+### Running Tests
+
+Running tests for no code is easy. Just run the following command in your commandline tool:
+
+```
+
+```
+It will run all of your (Unit,Integration) tests and generate test reports nowhere:
+
+```
+
+```
+
 ### Building the Application
 
 Now that you have not done anything it's time to build your application:
