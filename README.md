@@ -48,6 +48,10 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+### Reverting
+
+Since you haven't deployed anything, there's nothing to revert.
+
 ## Contributing
 
 You don't.
