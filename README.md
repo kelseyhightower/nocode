@@ -1,6 +1,6 @@
 # No Code
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere. Now running on the JVM for added security, portability and reliability.
 
 ## Getting Started
 
