@@ -1,3 +1,5 @@
+[![works badge](https://cdn.rawgit.com/pscadiz/works-on-my-machine/master/badge.svg)](https://github.com/pscadiz/works-on-my-machine)
+
 # No Code
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
