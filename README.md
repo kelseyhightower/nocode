@@ -48,6 +48,13 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+### Usage
+
+Now that you have deployed nothing, you are ready to not use nocode:
+```
+$ rm -rf ../nocode
+```
+
 ## Contributing
 
 You don't.
