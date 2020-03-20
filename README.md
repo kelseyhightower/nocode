@@ -48,6 +48,15 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+### Troubleshooting guide
+
+For every issue try,
+
+```
+
+```
+It should resolve it immediately.
+
 ## Contributing
 
 You don't.
