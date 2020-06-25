@@ -1,1 +1,0 @@
-run everything --everywhere
