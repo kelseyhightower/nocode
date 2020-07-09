@@ -22,6 +22,8 @@ du -h main.no
 0       main.no
 ```
 
+On Windows, the `dir` command should be used instead.
+
 > The only valid code is no code.
 
 ## Code Reviews
