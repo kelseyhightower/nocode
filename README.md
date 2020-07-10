@@ -1,5 +1,7 @@
 # No Code
 
+[![Build Status](https://img.shields.io/badge/build-passing-success)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## Getting Started
