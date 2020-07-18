@@ -8,7 +8,7 @@ No code is not stored in files, but if you must, use the `.no` file extension.
 
 ```
 main.no
-```
+``` 
 
 ## Linters
 
