@@ -2,6 +2,8 @@
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
+[![Run on repl.it](https://repl.it/badge/github/kelseyhightower/nocode)](https://repl.it/github/kelseyhightower/nocode)
+
 ## Getting Started
 
 Start by not writing any code.
