@@ -51,3 +51,7 @@ I know right?
 ## Contributing
 
 You don't.
+
+## Note to Windows users
+
+Some setup might be required.
