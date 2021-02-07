@@ -1,1 +1,2 @@
+import nothing
 FROM scratch
