@@ -12,7 +12,7 @@ main.no
 
 ## Linters
 
-There is only one way to write no code and the `du` command can help you identify any issues. 
+There is only one way to write no code and the `du` command can help you identify any issues.
 
 ```
 du -h main.no
