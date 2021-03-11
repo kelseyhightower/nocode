@@ -20,7 +20,7 @@ The possibilities are endless.
 
 ### Building the Application
 
-Now that you have not done anything it's time to build your application:
+Now that you have not done anything it's time to build your application, empty build pipeline files has been provided:
 
 ```
 
