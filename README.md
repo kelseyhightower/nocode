@@ -51,3 +51,19 @@ I know right?
 ## Contributing
 
 You don't.
+
+## Branching
+
+Change stuff like:
+
+``` 
+ 
+```
+
+to:
+
+```
+ 
+```
+
+This will improve the whole project when you don't rebase later on.
