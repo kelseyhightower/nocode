@@ -51,3 +51,8 @@ I know right?
 ## Contributing
 
 You don't.
+
+
+## Credits
+
+Here we put all the names of the people who didn't help
