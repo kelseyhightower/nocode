@@ -18,9 +18,9 @@ This is just an example application, but imagine it doing anything you want. Add
 
 The possibilities are endless.
 
-### Building the Application
+### Not building the Application
 
-Now that you have not done anything it's time to build your application:
+Now that you have not done anything it's time not to build your application:
 
 ```
 
@@ -32,15 +32,15 @@ Yep. That's it. You should see the following output:
 
 ```
 
-### Deploying
+### Not Deploying
 
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
-
-```
+While you still have not done anything it's time not to deploy your application. By not running the following command you can not deploy your application absolutely nowhere.
 
 ```
 
-It's that simple. And when it comes time to scale the application, all you have to do is:
+```
+
+It's that simple. And when it comes time to not scale the application, all you have to do is:
 
 ```
 
@@ -50,4 +50,4 @@ I know right?
 
 ## Contributing
 
-You don't.
+You don't. Or do you?
