@@ -2,6 +2,8 @@
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
+CI Status: ![none](https://github.com/kelseyhightower/nocode/actions/workflows/no-op.yml/badge.svg)
+
 ## Getting Started
 
 Start by not writing any code.
