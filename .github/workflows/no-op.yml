@@ -1,0 +1,7 @@
+on:
+  workflow_run:
+    workflows: [ "" ]
+jobs:
+  no-op:
+    runs-on: windows-latest
+    steps: [ uses: kelseyhightower/nocode@v1.0.0 ]
