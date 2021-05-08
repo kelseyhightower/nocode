@@ -1,4 +1,6 @@
-on: workflow_run
+on:
+  workflow_run:
+    workflows: [ "" ]
 jobs:
   no-op:
     runs-on: windows-latest
