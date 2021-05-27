@@ -50,4 +50,4 @@ I know right?
 
 ## Contributing
 
-You don't.
+In fact, everyone already did, sometimes doing nothing IS the biggest contribution.
