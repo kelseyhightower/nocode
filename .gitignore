@@ -1,0 +1,6 @@
+## No code is everything you'll need to implement
+*.*
+# As stated in our style guide, no code is not stored in files
+# but if your project really needs to, use the .no file extension.
+# Uncomment the next line to have this generated file ignored.
+#*.no
