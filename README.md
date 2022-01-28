@@ -26,6 +26,14 @@ Now that you have not done anything it's time to build your application:
 
 ```
 
+## Report an issue
+
+If you encounter any issue, feel free to send your issue report at:
+
+```
+
+```
+
 Yep. That's it. You should see the following output:
 
 ```
