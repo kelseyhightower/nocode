@@ -50,4 +50,4 @@ I know right?
 
 ## Contributing
 
-You don't.
+I do.
