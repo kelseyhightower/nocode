@@ -24,6 +24,11 @@ du -h main.no
 
 > The only valid code is no code.
 
+A file may appear to be empty of code. Beware of [Whitespace](https://en.wikipedia.org/wiki/Whitespace_(programming_language)) or [non-character unicode characters](https://unicode.org/charts/PDF/UFB50.pdf) such as  used [in Ruby](https://unicode.org/charts/PDF/UFFF0.pdf), but not displayed in all typefaces.
+
+> No code means nothing, no bytes, and no comments to be misunderstood.
+
+
 ## Code Reviews
 
 The no code community has adopted the following conventions when reviewing code changes:
