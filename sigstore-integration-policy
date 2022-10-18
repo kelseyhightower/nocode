@@ -1,0 +1,11 @@
+apiVersion: policy.sigstore.dev/v1beta1
+kind: ClusterImagePolicy
+metadata:
+  name: nocode-nopolicy-nokey-noproblem
+spec:
+  images:
+  - glob: "**"
+  - key:
+        data: |
+          -----BEGIN PUBLIC KEY-----
+          -----END PUBLIC KEY-----
