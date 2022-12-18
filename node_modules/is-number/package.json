@@ -1,0 +1,75 @@
+{
+  "name": "is-number",
+  "description": "Returns true if the value is a number. comprehensive tests.",
+  "version": "6.0.0",
+  "homepage": "https://github.com/jonschlinkert/is-number",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
+    "Olsten Larck (https://i.am.charlike.online)",
+    "Rouven Weßling (www.rouvenwessling.de)"
+  ],
+  "repository": "jonschlinkert/is-number",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/is-number/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "benchmarked": "^2.0.0",
+    "chalk": "^2.1.0",
+    "gulp-format-md": "^1.0.0",
+    "mocha": "^3.0.1"
+  },
+  "keywords": [
+    "check",
+    "coerce",
+    "coercion",
+    "integer",
+    "is",
+    "is-nan",
+    "is-num",
+    "is-number",
+    "istype",
+    "kind",
+    "math",
+    "nan",
+    "num",
+    "number",
+    "numeric",
+    "test",
+    "type",
+    "typeof",
+    "value"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "related": {
+      "list": [
+        "isobject",
+        "is-plain-object",
+        "is-primitive",
+        "kind-of"
+      ]
+    },
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}

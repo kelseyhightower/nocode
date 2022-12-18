@@ -1,0 +1,11 @@
+{
+  "name": "nocode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mdccg/nocode.git",
+  "author": "Matheus Comparotto <matheusdanielgomess@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}

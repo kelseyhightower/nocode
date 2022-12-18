@@ -1,0 +1,67 @@
+{
+  "name": "is-odd",
+  "description": "Returns true if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.",
+  "version": "3.0.1",
+  "homepage": "https://github.com/jonschlinkert/is-odd",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Dmitry Semigradsky (http://brainstorage.me/semigradsky)",
+    "DYM (https://dym.sh)",
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
+    "Rouven Weßling (www.rouvenwessling.de)"
+  ],
+  "repository": "jonschlinkert/is-odd",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/is-odd/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "is-number": "^6.0.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^1.0.0",
+    "mocha": "^3.5.3"
+  },
+  "keywords": [
+    "array",
+    "count",
+    "even",
+    "filter",
+    "integer",
+    "is",
+    "math",
+    "numeric",
+    "odd",
+    "string"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "exponential-moving-average",
+        "is-even",
+        "sma"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
