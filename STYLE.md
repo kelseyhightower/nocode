@@ -4,7 +4,7 @@ All no code programs are the same, regardless of use case, any code you write is
 
 ## File Extensions
 
-No code is not stored in files, but if you must, use the `.no` file extension.
+No code is stored in files, but if you must, use the `.no` file extension.
 
 ```
 main.no
