@@ -48,6 +48,9 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+## Zero Downtime
+Zero downtime = Zero uptime
+
 ## Contributing
 
 You don't.
