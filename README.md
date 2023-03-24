@@ -10,6 +10,8 @@ Start by not writing any code.
 
 ```
 
+You are done! Nothing to do.
+
 ## Contributing
 
 You don't.
