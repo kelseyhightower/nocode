@@ -1,3 +1,5 @@
+![SLSA Level Badge](https://img.shields.io/badge/SLSA%20Level-infinity-brightgreen)
+
 # No Code
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
