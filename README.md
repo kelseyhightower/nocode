@@ -48,6 +48,12 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+### NATS
+NATS can be used as an SQL file storage for the project. Because. Just add following to the configuration:
+```
+
+```
+
 ## Contributing
 
 You don't.
