@@ -1,0 +1,8 @@
+# "Nocode" Project Requirements
+
+# Injects humor and sarcasm into your codebase
+Satire==2.0.0
+# Elevates your project with clever quips and witty commentary
+Wit==1.5.2
+# Provides cutting-edge sarcasm capabilities for your codebase
+Sarcasm==4.2.1
