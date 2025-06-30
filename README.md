@@ -1,3 +1,5 @@
+
+
 # No Code
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -6,7 +8,7 @@ No code is the best way to write secure and reliable applications. Write nothing
 
 Start by not writing any code.
 
-```
+```Bahro
 
 ```
 

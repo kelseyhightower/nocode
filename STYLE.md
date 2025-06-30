@@ -10,7 +10,7 @@ No code is not stored in files, but if you must, use the `.no` file extension.
 main.no
 ```
 
-## Linters
+## Linters Bahrudin
 
 There is only one way to write no code and the `du` command can help you identify any issues. 
 
@@ -20,6 +20,8 @@ du -h main.no
 
 ```
 0       main.no
+
+db_name
 ```
 
 > The only valid code is no code.
