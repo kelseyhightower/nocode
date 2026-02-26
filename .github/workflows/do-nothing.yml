@@ -1,0 +1,13 @@
+name: Do Nothing
+
+on:
+  workflow_dispatch: # do nothing manually
+  schedule:
+    - cron: '0 0 1 1 *' # do nothing annually
+
+jobs:
+  do-nothing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Exit Zero
+        run: exit 0 # do nothing
