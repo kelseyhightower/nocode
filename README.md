@@ -1,53 +1,53 @@
-# No Code
+# بدون کد
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+بدون کد، بهترین راه برای نوشتن برنامه‌های امن و قابل اعتماد است. هیچ چیزی ننویسید؛ هیچ جایی مستقر نکنید.
 
-## Getting Started
+## شروع کار
 
-Start by not writing any code.
-
-```
-
-```
-
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+با ننوشتن هیچ کدی شروع کنید.
 
 ```
 
 ```
 
-The possibilities are endless.
-
-### Building the Application
-
-Now that you have not done anything it's time to build your application:
+این فقط یک برنامه نمونه است، اما تصور کنید که هر کاری که می‌خواهید انجام می‌دهد. اضافه کردن ویژگی‌های جدید نیز آسان است:
 
 ```
 
 ```
 
-Yep. That's it. You should see the following output:
+امکانات بی‌پایان هستند.
+
+### ساخت برنامه
+
+حالا که هیچ کاری نکرده‌اید، وقت آن است که برنامه خود را بسازید:
 
 ```
 
 ```
 
-### Deploying
-
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
+بله. همین است. باید خروجی زیر را ببینید:
 
 ```
 
 ```
 
-It's that simple. And when it comes time to scale the application, all you have to do is:
+### استقرار
+
+در حالی که هنوز هیچ کاری نکرده‌اید، وقت آن است که برنامه خود را مستقر کنید. با اجرای دستور زیر می‌توانید برنامه خود را کاملاً در هیچ جایی مستقر کنید.
 
 ```
 
 ```
 
-I know right?
+به همین سادگی. و وقتی زمان مقیاس‌بندی برنامه فرا می‌رسد، تنها کاری که باید انجام دهید این است:
 
-## Contributing
+```
 
-You don't.
+```
+
+می‌دانم، درست است؟
+
+## مشارکت
+
+نمی‌دانید.

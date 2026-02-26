@@ -1,1 +1,1 @@
-All changes are welcome as long as no code is involved. If you run into any bugs, please file an issue and explain how that was even possible.
+همه تغییرات تا زمانی که شامل کد نباشند، قابل قبول هستند. اگر با هرگونه اشکالی مواجه شدید، لطفاً یک مشکل ثبت کنید و توضیح دهید که چگونه چنین چیزی اصلاً ممکن شده است.

@@ -1,43 +1,43 @@
-# No Code Style Guide
+# راهنمای سبک بدون کد
 
-All no code programs are the same, regardless of use case, any code you write is a liability.
+همه برنامه‌های بدون کد یکسان هستند، صرف نظر از مورد استفاده، هر کدی که می‌نویسید یک مسئولیت است.
 
-## File Extensions
+## پسوند فایل
 
-No code is not stored in files, but if you must, use the `.no` file extension.
+هیچ کدی در فایل‌ها ذخیره نمی‌شود، اما در صورت لزوم، از پسوند فایل `.no` استفاده کنید.
 
 ```
 main.no
 ```
 
-## Linters
+## خط‌کش‌ها
 
-There is only one way to write no code and the `du` command can help you identify any issues. 
+فقط یک راه برای نوشتن بدون کد وجود دارد و دستور `du` می‌تواند به شما در شناسایی هرگونه مشکل کمک کند.
 
 ```
 du -h main.no
 ```
 
 ```
-0       main.no
+0 main.no
 ```
 
-> The only valid code is no code.
+> تنها کد معتبر، بدون کد است.
 
-## Code Reviews
+## بررسی کد
 
-The no code community has adopted the following conventions when reviewing code changes:
+انجمن بدون کد، قراردادهای زیر را هنگام بررسی تغییرات کد پذیرفته است:
 
-When the change contains no code additions or modifications:
-
-```
-LGTM # Looks Good To Me
-```
-
-When the change includes code additions or modifications:
+وقتی تغییر شامل هیچ اضافه یا اصلاح کدی نباشد:
 
 ```
-CIAL # Code Is A Liability
+LGTM # به نظر من خوب است
 ```
 
-> Change requests that fall into this category should be rejected immediately.
+وقتی تغییر شامل اضافه یا اصلاح کد باشد:
+
+```
+CIAL # کد یک مسئولیت است
+```
+
+> درخواست‌های تغییری که در این دسته قرار می‌گیرند باید فوراً رد شوند.
