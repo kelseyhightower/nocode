@@ -5,7 +5,5 @@ metadata:
 spec:
   images:
   - glob: "**"
-  - key:
-        data: |
-          -----BEGIN PUBLIC KEY-----
-          -----END PUBLIC KEY-----
+  - static:
+      action: fail
