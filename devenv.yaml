@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://devenv.sh/devenv.schema.json
+inputs:
+  nixpkgs:
+    url: github:cachix/devenv-nixpkgs/rolling
+
+# If you're using non-OSS software, you can set allow_unfree to true.
+# allow_unfree: true
+
+# If you're not willing to allow unsupported packages:
+# allow_unsupported_system: false
+
+# If you're willing to use a package that's vulnerable
+# permitted_insecure_packages:
+#  - "openssl-1.1.1w"
+
+# If you have more than one devenv you can merge them
+#imports:
+# - ./backend
