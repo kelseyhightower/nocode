@@ -32,6 +32,14 @@ Yep. That's it. You should see the following output:
 
 ```
 
+If you happened to have a GPU, build the application like this:
+
+```
+
+```
+
+Yep. You get it. 1000x faster.
+
 ### Deploying
 
 While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
